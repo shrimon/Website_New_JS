@@ -104,7 +104,7 @@ var pageNo = 1;
 
 var selectedCategory;
 
-var pageSize = 9;
+var pageSize = 8;
 
  var categoryItem = '';
     category.forEach((obj, index)=> {
